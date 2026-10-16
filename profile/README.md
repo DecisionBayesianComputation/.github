@@ -9,6 +9,7 @@ We study the algorithms and computations that evolution selected to perform biol
 🐛 Neuro & Larvae
 
 🧠 The Drosophila larva: decision-making and neuromodulation
+
 🕸️ Mapping neural circuits: the connectome
 📊 Large-scale behavioural assays
 
