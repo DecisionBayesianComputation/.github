@@ -1,1 +1,1 @@
-# .github
+The lab is focused on the algorithms and computation selected by evolution to perform biological decision-making. We address this topic with an interdisciplinary approach mixing statistical physics, Bayesian machine learning, information theory and various experimental biological setups.
